@@ -2,6 +2,13 @@
 # Check subdomains for Open S3 buckets
 # Coded by kaiz3n
 
+   _____       ____        __        __          ___  ____ 
+  / ___/__  __/ __ )__  __/ /_____  / /_   _   _<  / / __ \
+  \__ \/ / / / __  / / / / //_/ _ \/ __/  | | / / / / / / /
+ ___/ / /_/ / /_/ / /_/ / ,< /  __/ /_    | |/ / /_/ /_/ / 
+/____/\__,_/_____/\__,_/_/|_|\___/\__/    |___/_/(_)____/  
+
+
 Basically, this tool makes use of another tool (sublist3r) to fetch subdomains, and then checks to see if those subdomains might be an Open AWS S3 bucket which can be read and/or written to.
 
 

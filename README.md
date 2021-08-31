@@ -14,3 +14,6 @@ This is a very, very basic and hardcoded version so please make sure that:
 
 Disclaimer: Use this tool at your own risk and make sure you follow all laws. It is meant to be an Ethical web-application testing tool to help secure companie's S3 buckets, thus preventing data loss and/or leaks. 
 
+MIT License
+
+Copyright (c) 2021 kaiz3n

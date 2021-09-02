@@ -2,7 +2,7 @@
 # Check subdomains for Open S3 buckets
 # Coded by kaiz3n
 
-Basically, this tool makes use of another tool (sublist3r) to fetch subdomains, and then checks to see if those subdomains might be an Open AWS S3 bucket which can be read and/or written to.
+Basically, this tool makes use of another tool (sublist3r) to fetch subdomains, and then checks to see if those subdomains might be an Open AWS S3 bucket which can be read and/or written to using the (aws cli) tool.
 
 
 This is a very, very basic and hardcoded version so please make sure that:

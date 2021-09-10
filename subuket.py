@@ -1,5 +1,6 @@
 # SuBuket v1.0
 # Coded by kaiz3n
+# ¯\_(ツ)_/¯
 
 import os, sys
 
